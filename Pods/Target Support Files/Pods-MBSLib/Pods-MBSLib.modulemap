@@ -1,0 +1,6 @@
+framework module Pods_MBSLib {
+  umbrella header "Pods-MBSLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
